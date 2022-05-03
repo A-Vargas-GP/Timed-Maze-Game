@@ -22,9 +22,20 @@ Hints:
 
 
 
+Programs Used:
+- Unity
+
+
+Link to Playable Build:
+https://a-varg.itch.io/the-timed-maze-game
+
+
 CREDITS:
 
 - Character Pixel Art: https://assetstore.unity.com/packages/2d/characters/top-down-2d-rpg-assets-pack-...
 
 - Tilemap Art: https://assetstore.unity.com/packages/2d/environments/backyard-top-down-tileset-..
+
+
+Created in the fall of 2021.
 
