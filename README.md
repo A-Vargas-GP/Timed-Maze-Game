@@ -27,7 +27,7 @@ Programs Used:
 
 
 Link to Playable Build:
-https://a-varg.itch.io/the-timed-maze-game
+- https://a-varg.itch.io/the-timed-maze-game
 
 
 CREDITS:
