@@ -43,3 +43,5 @@ To play the current build, please select the following link: [The Timed Maze Gam
 
 
 Created in Fall 2021.
+
+*Not all Unity files are in this repository at this time.
